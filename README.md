@@ -1,5 +1,6 @@
 # Olist-Store-Analysis-E-Commerce-Project-
 Olist Store is an e-commerce platform that connects small and medium-sized businesses (SMBs) in Brazil with customers, operating as a marketplace.
+
 ![Olist Store Logo 2](https://github.com/user-attachments/assets/93741254-1e64-4d31-8b9f-a56ff87a1b6b)
 
 ## Introduction
