@@ -69,7 +69,7 @@ In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; P
 
 ## Project KPI Analysis
 - People's purchasing and paying rates are higher on weekdays (77%) than on weekends (23%).
-- The no. of orders with a review score of 5 and payment type as credit card are 44K-45K which is higher than any review score paired with the payment type orders.
+- The no. of orders with a review score of 5 and payment type as credit card are 44K-45K which is higher than any review score paired with the payment type and orders.
 - The average no. of shipping/delivery days taken to the pet shop is 11-12 days which is a moderate time.
 - The average payment value and price from customers of Sao Paulo city is 134:107 which can be interpreted as a positive indicator.
 - The average relationship between shipping/delivery days and review scores is 12:4. The average no. of shipping/delivery days has decreased the higher the review score goes in the line chart.
