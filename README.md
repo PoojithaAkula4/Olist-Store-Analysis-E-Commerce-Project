@@ -74,8 +74,8 @@ In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; P
 - The average payment value and price from customers of Sao Paulo city is 134:107 which can be interpreted as a positive indicator.
 - The average relationship between shipping/delivery days and review scores is 12:4. The average no. of shipping/delivery days has decreased the higher the review score goes in the line chart.
 
-## Overall Stats Analysis
-Other than the KPIs, found the total no. of customers, sellers, products, orders, sales, and profit; the top 5 and bottom 5 products; the top states; the relationship between the payment value and price by year and month through highs and lows; order volumes (positive/increased); order deliveries (positive/increased).
+## Overall Stats
+Other than the KPIs, found the total no. of customers, sellers, products, orders, sales, and profit; the top 5 and bottom 5 products; the top states; the relationship between the payment value and price by year and month through highs and lows; order volumes; order deliveries.
 
 ## Conclusion
 Hence, this Olist Store Analysis Project provides valuable business insights such as payment statistics, profit margins, distribution patterns, sales trends, delivery timelines, and customer behavior which help in making strategies such as improving delivery performance, optimizing product categories, enhancing customer experience, tailoring the marketing, leveraging preferred payment methods, and churning the prediction model contributing to more growth.
