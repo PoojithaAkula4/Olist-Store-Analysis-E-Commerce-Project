@@ -51,7 +51,7 @@ It includes 9 datasets:
 ## The Process On Different Software
 - In Excel: Cleaned the datasets off duplicates/blank rows/discrepancies, merged certain datasets, and added more columns on Power Query.
 
-![ETL](https://github.com/user-attachments/assets/b8bc840c-eaa2-460a-bdbf-1cdb623ead81) 
+ ![ETL](https://github.com/user-attachments/assets/3e002db7-1690-4312-b451-a740b049ef34)
 
 - In SQL: Loaded the cleaned datasets from above and written queries to find the project KPIs.
 
