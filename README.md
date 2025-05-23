@@ -7,7 +7,7 @@ Olist Store is an e-commerce platform that connects small and medium-sized busin
 This project provides a complete end-to-end data analytics workflow for the Olist Store. The goal is to extract valuable business insights using Excel, Power BI, Tableau, and SQL.
 
 ## Project Objectives
-- Export, transform, and load the data (ETL).
+- Export, transform and load the data (ETL).
 - Perform exploratory data analysis (EDA).
 - Identify the key performance indicators/metrics (KPIs).
 - Visualization.
