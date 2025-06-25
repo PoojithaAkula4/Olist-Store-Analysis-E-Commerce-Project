@@ -60,7 +60,7 @@ It includes 9 datasets:
 
 - In Power BI: Done the data modeling between the cleaned datasets, created a bridge table of zip_code_prefix, performed the EDA, identified the KPIs, and made a dashboard.
 
-![Power BI Dashboard](https://github.com/user-attachments/assets/db713359-2a4a-44a9-b462-12640569470c) ![Power BI Dashboard 2](https://github.com/user-attachments/assets/4ecdfff3-8c66-4285-8ebf-8dd331dee7b4) ![Power BI Dashboard 3](https://github.com/user-attachments/assets/400b7e6a-f1c6-4544-bcb6-6653aed17dc1)
+![Power BI Dashboard](https://github.com/user-attachments/assets/fdea7d3a-d9dc-409e-9586-b599c106805f) ![Power BI Dashboard 2](https://github.com/user-attachments/assets/0b20191d-8214-4ed1-a591-9f7545ba70e4) ![Power BI Dashboard 3](https://github.com/user-attachments/assets/afc29d93-c055-4482-b5ea-e7581568cf19)
 
 - In Tableau: Did the data blending with the cleaned datasets, added certain calculated fields, performed the EDA, identified the KPIs, and made a dashboard.
 
