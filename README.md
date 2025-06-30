@@ -64,7 +64,7 @@ It includes 9 datasets:
 
 - In Tableau: Did the data blending with the cleaned datasets, added certain calculated fields, performed the EDA, identified the KPIs, and made a dashboard.
 
-![Tableau Dashboard](https://github.com/user-attachments/assets/074612a5-29f6-4387-9866-f0a8e03383cb) ![Tableau Dashboard 2](https://github.com/user-attachments/assets/a7cce214-0494-48c6-aedf-a73573b091a4)
+![Tableau Dashboard](https://github.com/user-attachments/assets/5b24627c-edd8-417a-bb35-cad159eaff2f) ![Tableau Dashboard 2](https://github.com/user-attachments/assets/a7cce214-0494-48c6-aedf-a73573b091a4)
 
 In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Power BI and Tableau to perform EDA, identify the KPIs, and visualize the data.
 
