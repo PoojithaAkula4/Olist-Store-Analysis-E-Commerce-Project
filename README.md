@@ -50,7 +50,7 @@ It includes 9 datasets:
 - Seller distribution.
 
 ## The Process On Different Software
-- In Excel: Added more columns, cleaned the datasets off duplicates/blank rows/discrepancies, and merged certain datasets on Power Query.
+- In Excel: Added more columns, cleaned the datasets off duplicates/blank rows/errors, and merged certain datasets on Power Query.
 
  ![ETL](https://github.com/user-attachments/assets/3e002db7-1690-4312-b451-a740b049ef34)
 
