@@ -9,8 +9,8 @@ This project provides a complete end-to-end data analytics workflow for the Olis
 ## Project Objectives
 - Export, transform, and load the data (ETL).
 - Create a data model.
-- Perform exploratory data analysis (EDA).
 - Identify the key performance indicators/metrics (KPIs).
+- Perform exploratory data analysis (EDA).
 - Visualization.
 
 ## Project KPIs To Find
