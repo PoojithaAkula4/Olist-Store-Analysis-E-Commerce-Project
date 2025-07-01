@@ -58,15 +58,15 @@ It includes 9 datasets:
 
 ![SQL](https://github.com/user-attachments/assets/37ace18f-e03f-4fe3-a1c9-ef79faee568e) ![SQL 2](https://github.com/user-attachments/assets/b716c295-6997-4d04-a8fd-fea46fabfc4a) ![SQL 3](https://github.com/user-attachments/assets/a9fa1bd9-4859-40fa-9067-ce5cb1e7c30d)
 
-- In Power BI: Done the data modeling between the cleaned datasets, created a bridge table of zip_code_prefix, performed the EDA, identified the KPIs, and made a dashboard.
+- In Power BI: Done the data modeling between the cleaned datasets, created a bridge table of zip_code_prefix, identified the KPIs, performed the EDA, and made a dashboard.
 
 ![Power BI Dashboard](https://github.com/user-attachments/assets/fdea7d3a-d9dc-409e-9586-b599c106805f) ![Power BI Dashboard 2](https://github.com/user-attachments/assets/0b20191d-8214-4ed1-a591-9f7545ba70e4) ![Power BI Dashboard 3](https://github.com/user-attachments/assets/afc29d93-c055-4482-b5ea-e7581568cf19)
 
-- In Tableau: Did the data blending with the cleaned datasets, added certain calculated fields, performed the EDA, identified the KPIs, and made a dashboard.
+- In Tableau: Did the data blending with the cleaned datasets, added certain calculated fields, identified the KPIs, performed the EDA, and made a dashboard.
 
 ![Tableau Dashboard](https://github.com/user-attachments/assets/5b24627c-edd8-417a-bb35-cad159eaff2f) ![Tableau Dashboard 2](https://github.com/user-attachments/assets/a7cce214-0494-48c6-aedf-a73573b091a4)
 
-In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Power BI and Tableau to perform EDA, identify the KPIs, and visualize the data.
+In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Power BI and Tableau to identify the KPIs, perform the EDA and visualize the data.
 
 ## Project KPI Analysis
 - People's purchasing and paying rates are higher on weekdays (77%) than on weekends (23%).
