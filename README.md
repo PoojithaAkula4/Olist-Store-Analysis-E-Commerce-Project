@@ -4,7 +4,7 @@ Olist Store is an e-commerce platform that connects small and medium-sized busin
 ![Olist Store Logo 2](https://github.com/user-attachments/assets/93741254-1e64-4d31-8b9f-a56ff87a1b6b)
 
 ## Introduction
-This project provides a complete end-to-end data analytics workflow for the Olist Store. The goal is to extract valuable business insights using Excel, Power BI, Tableau, and SQL.
+This project provides a complete end-to-end data analytics workflow for the Olist Store. The goal is to extract valuable business insights using Excel, SQL, Power BI, and Tableau.
 
 ## Project Objectives
 - Export, transform, and load the data (ETL).
