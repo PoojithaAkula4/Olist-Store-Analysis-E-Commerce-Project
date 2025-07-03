@@ -23,7 +23,7 @@ This project provides a complete end-to-end data analytics workflow for the Olis
 ## About The Datasets
 The datasets can be found at: Olist Kaggle Dataset
 
-It includes 9 datasets:
+Total 9 datasets:
 - Customers: 99,441 rows × 5 columns
 - Geolocation: 1,000,163 rows × 5 columns
 - Order Items: 112,650 rows × 7 columns
