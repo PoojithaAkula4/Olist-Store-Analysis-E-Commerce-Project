@@ -66,7 +66,7 @@ Total 9 datasets:
 
 ![Tableau Dashboard](https://github.com/user-attachments/assets/5b24627c-edd8-417a-bb35-cad159eaff2f) ![Tableau Dashboard 2](https://github.com/user-attachments/assets/a7cce214-0494-48c6-aedf-a73573b091a4)
 
-In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Power BI and Tableau to found the KPIs, perform the EDA and visualize the data.
+In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Power BI and Tableau to find the KPIs, perform the EDA and visualize the data.
 
 ## Project KPI Analysis
 - People's purchasing and paying rates are higher on weekdays (77%) than on weekends (23%).
