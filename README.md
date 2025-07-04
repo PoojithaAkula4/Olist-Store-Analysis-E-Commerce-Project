@@ -56,7 +56,7 @@ Total 9 datasets:
 
 - In SQL: Loaded the cleaned datasets from above and written queries to find the project KPIs.
 
-![SQL](https://github.com/user-attachments/assets/37ace18f-e03f-4fe3-a1c9-ef79faee568e) ![SQL 2](https://github.com/user-attachments/assets/b716c295-6997-4d04-a8fd-fea46fabfc4a) ![SQL 3](https://github.com/user-attachments/assets/a9fa1bd9-4859-40fa-9067-ce5cb1e7c30d)
+![SQL](https://github.com/user-attachments/assets/c9543410-36db-4707-a9e0-c02892e5e5b8) ![SQL 2](https://github.com/user-attachments/assets/a0edc547-d635-4dc4-8091-01db04c29bdf) ![SQL 3](https://github.com/user-attachments/assets/4e5cb56f-8fa3-42ee-8a82-476400fb421c)
 
 - In Power BI: Done the data modeling between the cleaned datasets, created a bridge table of zip_code_prefix, found the KPIs, performed the EDA, and made a dashboard.
 
