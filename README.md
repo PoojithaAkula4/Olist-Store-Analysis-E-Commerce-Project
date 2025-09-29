@@ -9,9 +9,10 @@ This project provides a complete end-to-end data analytics workflow for the Olis
 ## Project Objectives
 - Export, transform, and load the data (ETL).
 - Create a data model.
-- Find the key performance indicators/metrics (KPIs).
+- Identify the key performance indicators/metrics (KPIs).
 - Perform the exploratory data analysis (EDA).
 - Visualization.
+- Understand the business model. 
 
 ## Project KPIs To Find
 - Weekday vs Weekend (order_purchase_timestamp) payment statistics.
