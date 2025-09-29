@@ -12,7 +12,7 @@ This project provides a complete end-to-end data analytics workflow for the Olis
 - Identify the key performance indicators/metrics (KPIs).
 - Perform the exploratory data analysis (EDA).
 - Visualization.
-- Understand the business model. 
+- Understand the business. 
 
 ## Project KPIs To Find
 - Weekday vs Weekend (order_purchase_timestamp) payment statistics.
